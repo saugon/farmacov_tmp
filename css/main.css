@@ -124,7 +124,7 @@ html.menu-opened {
 #landing {
   min-height: calc(var(--vh, 1vh) * 101);
   padding-top: calc(var(--header-height) + 5vh);
-  background-image: url("../img/bg.svg");
+  background-image: url("../img/bg.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: right bottom; }
